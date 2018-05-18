@@ -103,6 +103,8 @@ We had absolutely zero css for this project. Having gone through 6 months of Fro
 
 #### Attach a screenshot of your TravisCI build passing
 
+[Travis CI](https://cl.ly/2D2I0Q432g3D)
+
 [![Build Status](https://travis-ci.org/CharlesY712/BYOB.svg?branch=master)](https://travis-ci.org/CharlesY712/BYOB)
 
 -----
